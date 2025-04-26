@@ -1,1 +1,1 @@
-# Thyroid-cancer-risk-prediction
+This model aims to predict the likelihood of thyroid cancer in patients using their medical and personal information, such as thyroid hormone levels (like TSH, T3, and T4), age, gender, family history, and environmental factors like radiation exposure. By analyzing this data, the model helps doctors determine whether a patient is at risk for thyroid cancer, allowing them to take early action and provide the appropriate treatment.
